@@ -1,2 +1,2 @@
-# lapapps-legal
-Legal documents for Lapapps apps.
+# norimasa-kiban-legal
+Legal documents for Norimasa Kiban Applications.
