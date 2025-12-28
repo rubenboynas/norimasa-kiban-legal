@@ -2,4 +2,9 @@ theme: jekyll-theme-minimal
 title: " "
 description: " "
 show_downloads: false
-logo: ""
+google_analytics: 
+# Estas líneas desactivan los enlaces de GitHub
+github:
+  is_project_page: false
+  show_downloads: false
+  is_user_page: false
