@@ -107,4 +107,4 @@ These Terms shall be governed and construed in accordance with the laws of Spain
 ## 11. Contact Information
 If you have any questions about these Terms, please contact us at:
 
-Email: [YOUR CONTACT EMAIL]
+Email: norimasakiban@gmail.com
